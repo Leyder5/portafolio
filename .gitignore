@@ -1,0 +1,10 @@
+
+# Secretos
+.env
+
+#Imagenes pesadas
+img/originales/
+*.psd
+
+#Archivos del sistema
+Thumbs.db
