@@ -1,6 +1,8 @@
-Portafolio
+# Portafolio de Leyder
 
-que es una pagina personal de cambios en github que esta hecho en html css y js 
+Página personal hecha con **HTML, CSS y JavaScript** donde voy subiendo lo que aprendo en el curso de Git y GitHub.
+
+🔗 **Ver la página:** https://leyder5.github.io/portafolio/
 
 inicio 
 contacto
@@ -19,5 +21,5 @@ https://github.com/Leyder5
 "Leyder5"
 
 
-
+Creador : Leyder Ismalej
 
