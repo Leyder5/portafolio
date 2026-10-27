@@ -43,17 +43,9 @@ git clone https://github.com/Leyder5/portafolio.git
 2. Crea una rama para tu cambio.
 3. Sube tu rama y abre un **pull request**.
 
-<<<<<<< HEAD
-autor
 
-https://github.com/Leyder5
-"Leyder5"
-
-
-Creador : Leyder Ismalej
-=======
 ## Autor
 
 **Leyder Ismalej** · [@Leyder5](https://github.com/Leyder5)
->>>>>>> actualizacion-README
+
 
