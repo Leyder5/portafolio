@@ -29,18 +29,19 @@ portafolio/
 └── img/
 ```
 
-clonamos repositorio
+## Cómo clonarlo
+
+```bash
 git clone https://github.com/Leyder5/portafolio.git
+```
+
+## Cómo contribuir
 
 1. Haz un **fork** del proyecto.
 2. Crea una rama para tu cambio.
 3. Sube tu rama y abre un **pull request**.
 
-autor
+## Autor
 
-https://github.com/Leyder5
-"Leyder5"
-
-
-Creador : Leyder Ismalej
+**Leyder Ismalej** · [@Leyder5](https://github.com/Leyder5)
 
