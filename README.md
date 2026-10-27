@@ -51,4 +51,6 @@ git clone https://github.com/Leyder5/portafolio.git
 
 Este commit esta completo
 
-**Espero que todo este bien**
+**Espero que todo este bien** 
+
+## Fecha de creacion: 27 de octubre de 2026
